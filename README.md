@@ -1,0 +1,2 @@
+# Kaisenoko
+A Simple Bot
